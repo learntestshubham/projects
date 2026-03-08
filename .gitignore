@@ -1,6 +1,9 @@
 .venv/
 __pycache__/
 *.pyc
+linkedin-auto-apply/.venv/
+linkedin-auto-apply/__pycache__/
+linkedin-auto-apply/*.pyc
 
 # Local runtime state and personal data
 answer_memory.json
@@ -9,4 +12,9 @@ linkedin_apply_results.csv
 linkedin_apply_results_v2.csv
 login_verified_once.flag
 playwright_linkedin_profile/
-
+linkedin-auto-apply/answer_memory.json
+linkedin-auto-apply/applied_jobs.json
+linkedin-auto-apply/linkedin_apply_results.csv
+linkedin-auto-apply/linkedin_apply_results_v2.csv
+linkedin-auto-apply/login_verified_once.flag
+linkedin-auto-apply/playwright_linkedin_profile/
