@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Local runtime state and personal data
+answer_memory.json
+applied_jobs.json
+linkedin_apply_results.csv
+linkedin_apply_results_v2.csv
+login_verified_once.flag
+playwright_linkedin_profile/
+
